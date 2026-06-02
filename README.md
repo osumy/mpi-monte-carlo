@@ -77,8 +77,7 @@ python runner.py
 
 ## 🧑‍💻 Author
 * **Developer:** AmirAli Araghi
-* **Student ID:** 402222110
-* **Course:** Concurrent Programming (Academic Year: 2025-2026)
+* **Course:** Concurrent Programming (Spring 2025)
 * **Instructor:** Dr. Mehdi Movahedian Moqadam
 
 ## 📄 License
