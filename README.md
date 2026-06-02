@@ -34,8 +34,8 @@ Since this project runs on Windows distributed emulation, you must install the o
 ### 2. Python Environment Setup
 Clone the repository and install the required numerical and visualization stack using pip:
 ```bash
-git clone https://github.com/osumy/cp-1.git
-cd cp-1
+git clone https://github.com/osumy/mpi-monte-carlo.git
+cd mpi-monte-carlo
 pip install -r requirements.txt
 ```
 
